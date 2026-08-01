@@ -14,7 +14,7 @@
 ## 📱 App & Scanner Showcase
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/ai_scan_preview.png" width="95%" alt="Smart Camera OCR Scanner Preview" />
+  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/android_scan_preview.png" width="95%" alt="Smart Android Camera OCR Scanner Preview" />
 </p>
 
 <p align="center">
