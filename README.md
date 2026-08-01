@@ -11,20 +11,30 @@
 
 ---
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="dashboard_screenshot.png" width="45%" alt="ExpirationReminder Dashboard" />
+  &nbsp; &nbsp;
+  <img src="settings_screenshot.png" width="45%" alt="Settings and Cloud Sync" />
+</p>
+
+---
+
 ## 🌟 Why You Need ExpirationReminder
 
 Ever faced a surprise expired driver's license at airport security, a turned-away passport at check-in, or a declined credit card on a recurring bill? 
 
-**ExpirationReminder (ExpR)** is your intelligent personal companion designed to track all your essential document dates effortlesly.
+**ExpirationReminder (ExpR)** is your intelligent personal companion designed to track all your essential document dates effortlessly.
 
 ---
 
 ## ✨ Killer Features
 
-### 📷 Instant Smart Camera Scan
+### 📷 Instant Smart Camera Scan & Viewfinder Box
 * Point your camera at any **Driver's License**, **Passport**, **Credit Card**, or **ID Badge**.
 * Powered by Google ML Kit OCR: Automatically detects and parses expiration dates in milliseconds (`MM/DD/YYYY`, `DD/MM/YYYY`, `YYYY-MM-DD`, `MM/YY`).
-* Smart Viewfinder Box validation ensures your card is perfectly framed before taking a snapshot.
+* Smart Viewfinder Box validation ensures your card is perfectly framed inside the box before taking a snapshot.
 
 ### 🔒 100% Local Privacy First
 * **Zero Remote Servers & Zero Data Harvesting**: All photos, OCR scans, and personal entries remain strictly on your phone.
@@ -52,7 +62,7 @@ Ever faced a surprise expired driver's license at airport security, a turned-awa
 
 ## 📲 Quick Download & Installation
 
-1. **Download APK**: Click below to download the official production APK:
+1. **Download APK**: Click below to download the official production APK:  
    👉 [**Download ExpirationReminder.apk**](https://github.com/alexsoh/ExpR.free/raw/main/ExpirationReminder.apk)
 2. **Install on your Android Device**:
    * Open the downloaded file on your device and tap **Install** (allow "Install from Unknown Sources" if prompted).
