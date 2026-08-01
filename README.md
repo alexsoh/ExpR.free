@@ -11,14 +11,16 @@
 
 ---
 
-## 📱 App Screenshots
+## 📱 App & Scanner Showcase
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/scan_preview.png" width="31%" alt="Live ID Camera Scanner" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/dashboard_preview.png" width="31%" alt="Expiration Reminder Dashboard" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/settings_preview.png" width="31%" alt="Settings and Cloud Sync" />
+  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/ai_scan_preview.png" width="95%" alt="Smart Camera OCR Scanner Preview" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/dashboard_preview.png" width="45%" alt="Expiration Reminder Dashboard" />
+  &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/settings_preview.png" width="45%" alt="Settings and Cloud Sync" />
 </p>
 
 ---
