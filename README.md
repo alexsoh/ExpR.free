@@ -14,9 +14,9 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="dashboard_screenshot.png" width="45%" alt="ExpirationReminder Dashboard" />
+  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/dashboard_preview.png" width="45%" alt="ExpirationReminder Dashboard" />
   &nbsp; &nbsp;
-  <img src="settings_screenshot.png" width="45%" alt="Settings and Cloud Sync" />
+  <img src="https://raw.githubusercontent.com/alexsoh/ExpR.free/main/settings_preview.png" width="45%" alt="Settings and Cloud Sync" />
 </p>
 
 ---
